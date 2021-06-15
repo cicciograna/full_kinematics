@@ -1,0 +1,8 @@
+# ifndef NO_SINGLE_DOUBLE_SCATTER_HH
+# define NO_SINGLE_DOUBLE_SCATTER_HH
+
+// # define SINGLE_ION_SCATTER
+// # define DOUBLE_ION_SCATTER
+
+# endif
+
